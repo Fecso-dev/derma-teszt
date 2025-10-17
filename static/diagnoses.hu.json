@@ -40,8 +40,8 @@
     "description": "Általában önmagától gyógyuló, akut kiütés, gyakran kezdődik egyetlen 'indító folttal', majd több ovális, pikkelyes elváltozás jelenik meg a törzsön."
   },
   {
-    "title": "Tinea corporis (gyűrűs gombafertőzés)",
-    "keywords": ["annularis", "gyűrűs", "középen tisztulás", "pikkelyes perem", "perifériás hámlás", "viszkető", "erythemás szél"],
+    "title": "Tinea corporis",
+    "keywords": ["annularis", "gyűrűs", "középen tisztul", "pikkelyes perem", "perifériás hámlás", "szélen hámló", "viszkető", "erythemás szél"],
     "description": "Dermatophyta okozta felületes gombafertőzés; jellegzetes gyűrűs elváltozás, középen tisztuló területtel és emelkedett, pikkelyes peremmel."
   },
   {
@@ -51,12 +51,12 @@
   },
    {
     "title": "Orbánc (Erysipelas)",
-    "keywords": ["éles határ", "erythemás", "emelkedett", "meleg tapintatú", "tender", "gyors kezdet", "lymphangitis", "láz", "streptococcus fertőzés", "felszíni dermisz érintettség"],
+    "keywords": ["éles határ", "erythemás", "emelkedett", "meleg tapintatú", "tender", "feszes", "gyors kezdet", "lymphangitis", "láz", "streptococcus fertőzés", "felszíni dermisz érintettség"],
     "description": "Akut, gyakran streptococcus eredetű felszíni bőr- és lympha infekció; élesen körülírt, meleg, fájdalmas erythemás terület lázzal és gyakran lymphangitis-szel."
   },
   {
     "title": "Nekrotizáló fasciitis",
-    "keywords": ["aránytalanul nagy fájdalom", "súlyos fájdalom", "gyors terjedés", "erythema", "duzzanat", "hemorrhagiás bullák", "bőrelhalás", "crepitus", "szepszis", "szöveti gáz", "sebészi vészhelyzet"],
+    "keywords": ["aránytalanul nagy fájdalom", "súlyos fájdalom", "gyors terjedés", "erythema", "duzzanat", "hemorrhagiás bullák", "bőrelhalás", "crepitus", "szepszis", "szöveti gáz", "sebészi vészhelyzet", "necrosis"],
     "description": "Rendkívül gyorsan terjedő, életveszélyes lágyrészfertőzés, amely a fascia és a subcutis necrosisát okozza; súlyos fájdalom, gyorsan romló általános állapot jellemzi — azonnali sebészi beavatkozást igényel."
   },
   {
@@ -71,17 +71,17 @@
   },
   {
     "title": "Melanoma",
-    "keywords": ["aszimmetria", "szabálytalan szél", "színgazdagság", "változó szín", "ABCDE", "növekvő elváltozás", "pigmentált", "nodulus", "ulceratio", "satellite gócok", "regresszió", "sötétbarna", "fekete", "piros", "kék"],
+    "keywords": ["aszimmetria", "aszimmetrikus", "szabálytalan szél", "színgazdagság", "változó szín", "ABCDE", "növekvő elváltozás", "pigmentált", "nodulus", "ulceratio", "satellite gócok", "regresszió", "sötétbarna", "fekete", "piros", "kék"],
     "description": "Melanocitákból kiinduló rosszindulatú daganat; gyanakvó tünetek: aszimmetria, szél szabálytalansága, színváltozatosság, növekedés vagy változás az időben. Korai felismerés kritikus a metastasis megelőzéséhez."
   },
   {
     "title": "Naevus (anyajegy)",
-    "keywords": ["szimmetrikus", "egyenletes szín", "jól körülírt", "stabil", "congenitalis naevus", "junctionalis", "komponens", "intradermalis", "pigmentált macula", "papula", "naevus"],
+    "keywords": ["szimmetrikus", "egyenletes szín", "jól körülírt", "stabil", "congenitalis naevus", "junctionalis", "komponens", "intradermalis", "pigmentált macula", "papula", "naevus", "barna", "fekete"],
     "description": "Általában jóindulatú melanocitás elváltozás, egységes színnel és szabályos határokkal; típusai: junctionalis, compound és intradermalis naevus. Figyelni kell a méret, szín vagy forma változására."
   },
   {
     "title": "Ulcus cruris (lábszárfekély)",
-    "keywords": ["krónikus fekély", "vénás elégtelenség", "hemosiderin elszíneződés", "lipodermatosclerosis", "medialis malleolus", "sekély szabálytalan fekély", "visszér", "ödéma", "rossz sebgyógyulás", "punctum-szerű", "fájdalmas", "perifériás artériás betegség", "iskémiás fekély"],
+    "keywords": ["krónikus fekély", "vénás elégtelenség", "hemosiderin elszíneződés", "lipodermatosclerosis", "medialis malleolus", "belboka", "sekély szabálytalan fekély", "visszér", "ödéma", "rossz sebgyógyulás", "punctum-szerű", "fájdalmas", "perifériás artériás betegség", "iskémiás fekély", "krónikus seb"],
     "description": "Krónikus lábfekély, több lehetséges oka van: vénás stasis okozta fekélyek (sekély, gyakran a medialis boka körül, hemosiderin elszíneződés és lipodermatosclerosis kísérheti) és artériás/iskémiás fekélyek (punctumszerű, erősen fájdalmas, rossz perfúzióra utal). A kezelés a kiváltó októl függ."
   }
 ]
